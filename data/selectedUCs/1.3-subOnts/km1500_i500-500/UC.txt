@@ -1,0 +1,15 @@
+http://www.text2onto.org/ontology#design_information_system_c
+http://www.text2onto.org/ontology#information_memory_c
+http://www.text2onto.org/ontology#meeting_support_system_c
+http://www.text2onto.org/ontology#system_memory_c
+http://www.text2onto.org/ontology#decision_support_system_c
+http://www.text2onto.org/ontology#multimedium_information_system_c
+http://www.text2onto.org/ontology#computer_system_c
+http://www.text2onto.org/ontology#system_c
+http://www.text2onto.org/ontology#edge_knowledge_management_system_c
+http://www.text2onto.org/ontology#computer_algebra_system_c
+http://www.text2onto.org/ontology#decision_system_c
+http://www.text2onto.org/ontology#design_knowledge_management_system_c
+http://www.text2onto.org/ontology#knowledge_growth_system_c
+http://www.text2onto.org/ontology#memory_c
+http://www.text2onto.org/ontology#hospital_information_system_c

@@ -1,0 +1,13 @@
+http://ekaw#Industrial_Session
+http://edas#SingleLevelConference
+http://ekaw#Invited_Talk
+http://edas#IndustryOrganization
+http://edas#ClosingTalk
+http://edas#ConferenceSession
+http://edas#WelcomeTalk
+http://ekaw#Conference_Paper
+http://ekaw#Industrial_Paper
+http://edas#TwoLevelConference
+http://ekaw#Conference_Session
+http://edas#Conference
+http://edas#TalkEvent

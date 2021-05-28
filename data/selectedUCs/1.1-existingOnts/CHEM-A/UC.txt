@@ -1,0 +1,15 @@
+http://www.owl-ontologies.com/unnamed.owl#AC_Agent
+http://www.owl-ontologies.com/unnamed.owl#ChokingAgent
+http://www.owl-ontologies.com/unnamed.owl#VX_Precursor
+http://www.owl-ontologies.com/unnamed.owl#ChokingAgentPrecursor
+http://www.owl-ontologies.com/unnamed.owl#GA_Agent
+http://www.owl-ontologies.com/unnamed.owl#AC_Precursor
+http://www.owl-ontologies.com/unnamed.owl#HD_Agent
+http://www.owl-ontologies.com/unnamed.owl#Person
+http://www.owl-ontologies.com/unnamed.owl#CG_Precursor
+http://www.owl-ontologies.com/unnamed.owl#BlisterAgentPrecursor
+http://www.owl-ontologies.com/unnamed.owl#GF_RelatedPublishedWork
+http://www.owl-ontologies.com/unnamed.owl#GB_RelatedPublishedWork
+http://www.owl-ontologies.com/unnamed.owl#BlisterAgentSpecificPublishedWork
+http://www.owl-ontologies.com/unnamed.owl#Agent
+http://www.owl-ontologies.com/unnamed.owl#PublishedAuthor

@@ -1,0 +1,15 @@
+http://reliant.teknowledge.com/DAML/Transportation.owl#Ambulance
+http://reliant.teknowledge.com/DAML/Transportation.owl#PontoonBridge
+http://reliant.teknowledge.com/DAML/Mid-level-ontology.owl#RoadJunction
+http://reliant.teknowledge.com/DAML/Transportation.owl#PassengerCar
+http://reliant.teknowledge.com/DAML/Transportation.owl#LightTruck
+http://reliant.teknowledge.com/DAML/Transportation.owl#AirRoute
+http://reliant.teknowledge.com/DAML/Mid-level-ontology.owl#Expressway
+http://reliant.teknowledge.com/DAML/Transportation.owl#RailwayJunction
+http://reliant.teknowledge.com/DAML/Transportation.owl#Street
+http://reliant.teknowledge.com/DAML/Mid-level-ontology.owl#Airplane
+http://reliant.teknowledge.com/DAML/Transportation.owl#Bus
+http://reliant.teknowledge.com/DAML/SUMO.owl#Roadway
+http://reliant.teknowledge.com/DAML/Mid-level-ontology.owl#UnsurfacedRoadway
+http://reliant.teknowledge.com/DAML/Transportation.owl#SelfPoweredVehicle
+http://reliant.teknowledge.com/DAML/Transportation.owl#FHWAVehicleClass12

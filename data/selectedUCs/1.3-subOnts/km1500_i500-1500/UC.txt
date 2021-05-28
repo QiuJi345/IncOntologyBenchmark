@@ -1,0 +1,15 @@
+http://www.text2onto.org/ontology#information_memory_c
+http://www.text2onto.org/ontology#emergency_assistance_organization_c
+http://www.text2onto.org/ontology#meeting_support_system_c
+http://www.text2onto.org/ontology#organisation_c
+http://www.text2onto.org/ontology#world_enterprise_c
+http://www.text2onto.org/ontology#understanding_organisation_c
+http://www.text2onto.org/ontology#case_firm_c
+http://www.text2onto.org/ontology#information_technology_consulting_firm_c
+http://www.text2onto.org/ontology#portfolio_assessment_system_c
+http://www.text2onto.org/ontology#knowledge_growth_system_c
+http://www.text2onto.org/ontology#firm_c
+http://www.text2onto.org/ontology#memory_c
+http://www.text2onto.org/ontology#concern_firm_c
+http://www.text2onto.org/ontology#multisite_software_development_organization_c
+http://www.text2onto.org/ontology#design_information_system_c

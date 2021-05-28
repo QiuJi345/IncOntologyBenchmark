@@ -1,0 +1,5 @@
+http://cmt#Conference
+http://confOf#Conference
+http://confOf#Working_event
+http://confOf#Workshop
+http://confOf#Tutorial

@@ -1,0 +1,15 @@
+http://www.text2onto.org/ontology#customer_support_service_business_c
+http://www.text2onto.org/ontology#business_c
+http://www.text2onto.org/ontology#information_memory_c
+http://www.text2onto.org/ontology#heart_disease_patient_model_c
+http://www.text2onto.org/ontology#communication_study_c
+http://www.text2onto.org/ontology#meeting_support_system_c
+http://www.text2onto.org/ontology#document_management_system_c
+http://www.text2onto.org/ontology#world_enterprise_c
+http://www.text2onto.org/ontology#convergent_way_c
+http://www.text2onto.org/ontology#favourite_model_c
+http://www.text2onto.org/ontology#policy_information_system_c
+http://www.text2onto.org/ontology#information_genetics_model_c
+http://www.text2onto.org/ontology#understanding_organisation_c
+http://www.text2onto.org/ontology#case_firm_c
+http://www.text2onto.org/ontology#information_technology_consulting_firm_c

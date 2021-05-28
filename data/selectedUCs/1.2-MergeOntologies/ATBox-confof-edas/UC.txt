@@ -1,0 +1,15 @@
+http://confOf#Science_Worker
+http://edas#Person
+http://edas#Workshop
+http://confOf#Scholar
+http://confOf#Workshop
+http://edas#SessionChair
+http://edas#AcademicEvent
+http://edas#Attendee
+http://confOf#Student
+http://edas#TwoLevelConference
+http://confOf#Volunteer
+http://confOf#Author
+http://edas#ConferenceChair
+http://edas#Presenter
+http://confOf#Assistant

@@ -1,0 +1,2829 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="owlapi:ontology:ont1#"
+     xml:base="owlapi:ontology:ont1"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="owlapi:ontology:ont1"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_16155399934600 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_16155399934600"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_16155399934621 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_16155399934621"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_16155399934622 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_16155399934622"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_16155399934623 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_16155399934623"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_16155399934634 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_16155399934634"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_16155399934635 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_16155399934635"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_16155399934636 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_16155399934636"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_16155399934637 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_16155399934637"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_16155399934638 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_16155399934638"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_16155399934639 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_16155399934639"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999346910 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999346910"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999346911 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999346911"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999346912 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999346912"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999346913 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999346913"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999346914 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999346914"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999346915 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999346915"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999346916 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999346916"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999346917 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999346917"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999346918 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999346918"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999346919 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999346919"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999346920 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999346920"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999346921 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999346921"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999346922 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999346922"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999347223 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999347223"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999347224 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999347224"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999347225 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999347225"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999347226 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999347226"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999347227 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999347227"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999347228 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999347228"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999347229 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999347229"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999347230 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999347230"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999347231 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999347231"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999347232 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999347232"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999347233 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999347233"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999347334 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999347334"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999347335 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999347335"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999347336 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999347336"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999347337 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999347337"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999347338 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999347338"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999347339 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999347339"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999347340 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999347340"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999347341 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999347341"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999347342 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999347342"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999347343 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999347343"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#OP_161553999347344 -->
+
+    <owl:ObjectProperty rdf:about="http://www.njupt.edu.cn#OP_161553999347344"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_16155399934450 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_16155399934450"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_16155399934582 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_16155399934582"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_16155399934584 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_16155399934584"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999345910 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999345910"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999345912 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999345912"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999345914 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999345914"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999345916 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999345916"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999345918 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999345918"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_16155399934596 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_16155399934596"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_16155399934598 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_16155399934598"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346020 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346020"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346222 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346222"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346224 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346224"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346226 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346226"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346228 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346228"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346330 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346330"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346332 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346332"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346334 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346334"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346336 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346336"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346338 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346338"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346651 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346651"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346653 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346653"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346655 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346655"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346657 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346657"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346759 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346759"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346761 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346761"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346763 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346763"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346765 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346765"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346767 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346767"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346769 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346769"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346771 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346771"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346773 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346773"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346775 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346775"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346777 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346777"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346879 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346879"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346881 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346881"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346883 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346883"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346885 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346885"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346887 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346887"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346889 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346889"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346891 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346891"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346893 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346893"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346895 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346895"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346897 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346897"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993469101 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993469101"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993469103 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993469103"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993469105 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993469105"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993469107 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993469107"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993469109 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993469109"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993469111 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993469111"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993469113 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993469113"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993469115 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993469115"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993469117 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993469117"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993469119 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993469119"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993469121 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993469121"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993469123 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993469123"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993469125 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993469125"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993469127 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993469127"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993469129 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993469129"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993469131 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993469131"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993469133 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993469133"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993469135 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993469135"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993469137 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993469137"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993469139 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993469139"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993469141 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993469141"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993469143 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993469143"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993469145 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993469145"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_161553999346999 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_161553999346999"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993472147 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993472147"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993472149 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993472149"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993472151 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993472151"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993472153 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993472153"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993472155 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993472155"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993472157 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993472157"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993472159 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993472159"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993472161 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993472161"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993472163 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993472163"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993472165 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993472165"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993473167 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993473167"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993473169 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993473169"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993473171 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993473171"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993473173 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993473173"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993473175 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993473175"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993473177 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993473177"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993473179 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993473179"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993473181 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993473181"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993473183 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993473183"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993473185 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993473185"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#Concept_1615539993473187 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#Concept_1615539993473187"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#DerivedUC_161553999346340 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#DerivedUC_161553999346340">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#PureUC1_16155399934451"/>
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#PureUC1_16155399934583"/>
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#PureUC1_16155399934585"/>
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#PureUC1_161553999345911"/>
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#PureUC1_161553999345913"/>
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#PureUC1_161553999345915"/>
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#PureUC1_161553999345917"/>
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#PureUC1_161553999345919"/>
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#PureUC1_16155399934597"/>
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#PureUC1_16155399934599"/>
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#PureUC2_161553999346021"/>
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#PureUC2_161553999346223"/>
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#PureUC2_161553999346225"/>
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#PureUC2_161553999346227"/>
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#PureUC2_161553999346329"/>
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#PureUC2_161553999346331"/>
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#PureUC2_161553999346333"/>
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#PureUC2_161553999346335"/>
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#PureUC2_161553999346337"/>
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#PureUC2_161553999346339"/>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#DerivedUC_161553999346543 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#DerivedUC_161553999346543">
+        <rdfs:subClassOf rdf:resource="http://www.njupt.edu.cn#MutualUC_161553999346442"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#DerivedUC_161553999346644 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#DerivedUC_161553999346644">
+        <rdfs:subClassOf rdf:resource="http://www.njupt.edu.cn#DerivedUC_161553999346543"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#DerivedUC_161553999346645 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#DerivedUC_161553999346645">
+        <rdfs:subClassOf rdf:resource="http://www.njupt.edu.cn#DerivedUC_161553999346644"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#DerivedUC_161553999346646 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#DerivedUC_161553999346646">
+        <rdfs:subClassOf rdf:resource="http://www.njupt.edu.cn#DerivedUC_161553999346645"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#DerivedUC_161553999346647 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#DerivedUC_161553999346647">
+        <rdfs:subClassOf rdf:resource="http://www.njupt.edu.cn#DerivedUC_161553999346646"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#DerivedUC_161553999346648 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#DerivedUC_161553999346648">
+        <rdfs:subClassOf rdf:resource="http://www.njupt.edu.cn#DerivedUC_161553999346647"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#DerivedUC_161553999346649 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#DerivedUC_161553999346649">
+        <rdfs:subClassOf rdf:resource="http://www.njupt.edu.cn#DerivedUC_161553999346648"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#DerivedUC_161553999346650 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#DerivedUC_161553999346650">
+        <rdfs:subClassOf rdf:resource="http://www.njupt.edu.cn#DerivedUC_161553999346649"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#MutualUC_161553999346441 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#MutualUC_161553999346441">
+        <owl:equivalentClass rdf:resource="http://www.njupt.edu.cn#MutualUC_161553999346442"/>
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#MutualUC_161553999346442"/>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#MutualUC_161553999346442 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#MutualUC_161553999346442"/>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_16155399934451 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_16155399934451">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_16155399934450"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_16155399934450"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_16155399934583 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_16155399934583">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_16155399934582"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_16155399934582"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_16155399934585 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_16155399934585">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_16155399934584"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_16155399934584"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999345911 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999345911">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999345910"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999345910"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999345913 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999345913">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999345912"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999345912"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999345915 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999345915">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999345914"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999345914"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999345917 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999345917">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999345916"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999345916"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999345919 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999345919">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999345918"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999345918"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_16155399934597 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_16155399934597">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_16155399934596"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_16155399934596"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_16155399934599 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_16155399934599">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_16155399934598"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_16155399934598"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999346652 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999346652">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999346651"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346651"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999346654 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999346654">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999346653"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346653"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999346656 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999346656">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999346655"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346655"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999346658 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999346658">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999346657"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346657"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999346760 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999346760">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999346759"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346759"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999346762 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999346762">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999346761"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346761"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999346764 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999346764">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999346763"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346763"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999346766 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999346766">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999346765"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346765"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999346768 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999346768">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999346767"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346767"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999346770 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999346770">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999346769"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346769"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999346772 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999346772">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999346771"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346771"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999346774 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999346774">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999346773"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346773"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999346776 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999346776">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999346775"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346775"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999346778 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999346778">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999346777"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346777"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999346880 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999346880">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999346879"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346879"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999346882 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999346882">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999346881"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346881"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999346884 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999346884">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999346883"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346883"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999346886 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999346886">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999346885"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346885"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999346888 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999346888">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999346887"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346887"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999346890 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999346890">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999346889"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346889"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999346892 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999346892">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999346891"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346891"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999346894 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999346894">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999346893"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346893"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999346896 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999346896">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999346895"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346895"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_161553999346898 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_161553999346898">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999346897"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346897"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_1615539993469100 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_1615539993469100">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_161553999346999"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346999"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_1615539993469102 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_1615539993469102">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_1615539993469101"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469101"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_1615539993469104 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_1615539993469104">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_1615539993469103"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469103"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_1615539993469106 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_1615539993469106">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_1615539993469105"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469105"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_1615539993469108 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_1615539993469108">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_1615539993469107"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469107"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_1615539993469110 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_1615539993469110">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_1615539993469109"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469109"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_1615539993469112 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_1615539993469112">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_1615539993469111"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469111"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_1615539993469114 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_1615539993469114">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_1615539993469113"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469113"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_1615539993469116 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_1615539993469116">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_1615539993469115"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469115"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC1_1615539993469118 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC1_1615539993469118">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.njupt.edu.cn#Concept_1615539993469117"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469117"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_161553999346021 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_161553999346021">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_16155399934600"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_161553999346020"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_16155399934600"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346020"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_161553999346223 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_161553999346223">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_16155399934621"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_161553999346222"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_16155399934621"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346222"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_161553999346225 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_161553999346225">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_16155399934622"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_161553999346224"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_16155399934622"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346224"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_161553999346227 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_161553999346227">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_16155399934623"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_161553999346226"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_16155399934623"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346226"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_161553999346329 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_161553999346329">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_16155399934634"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_161553999346228"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_16155399934634"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346228"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_161553999346331 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_161553999346331">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_16155399934635"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_161553999346330"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_16155399934635"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346330"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_161553999346333 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_161553999346333">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_16155399934636"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_161553999346332"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_16155399934636"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346332"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_161553999346335 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_161553999346335">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_16155399934637"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_161553999346334"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_16155399934637"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346334"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_161553999346337 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_161553999346337">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_16155399934638"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_161553999346336"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_16155399934638"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346336"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_161553999346339 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_161553999346339">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_16155399934639"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_161553999346338"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_16155399934639"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_161553999346338"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993469120 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993469120">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999346910"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469119"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999346910"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469119"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993469122 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993469122">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999346911"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469121"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999346911"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469121"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993469124 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993469124">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999346912"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469123"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999346912"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469123"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993469126 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993469126">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999346913"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469125"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999346913"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469125"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993469128 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993469128">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999346914"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469127"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999346914"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469127"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993469130 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993469130">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999346915"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469129"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999346915"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469129"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993469132 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993469132">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999346916"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469131"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999346916"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469131"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993469134 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993469134">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999346917"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469133"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999346917"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469133"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993469136 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993469136">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999346918"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469135"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999346918"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469135"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993469138 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993469138">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999346919"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469137"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999346919"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469137"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993469140 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993469140">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999346920"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469139"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999346920"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469139"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993469142 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993469142">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999346921"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469141"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999346921"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469141"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993469144 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993469144">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999346922"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469143"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999346922"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469143"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993472146 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993472146">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347223"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469145"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347223"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993469145"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993472148 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993472148">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347224"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993472147"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347224"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993472147"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993472150 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993472150">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347225"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993472149"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347225"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993472149"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993472152 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993472152">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347226"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993472151"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347226"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993472151"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993472154 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993472154">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347227"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993472153"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347227"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993472153"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993472156 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993472156">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347228"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993472155"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347228"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993472155"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993472158 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993472158">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347229"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993472157"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347229"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993472157"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993472160 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993472160">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347230"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993472159"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347230"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993472159"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993472162 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993472162">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347231"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993472161"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347231"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993472161"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993472164 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993472164">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347232"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993472163"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347232"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993472163"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993472166 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993472166">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347233"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993472165"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347233"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993472165"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993473168 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993473168">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347334"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993473167"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347334"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993473167"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993473170 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993473170">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347335"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993473169"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347335"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993473169"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993473172 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993473172">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347336"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993473171"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347336"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993473171"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993473174 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993473174">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347337"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993473173"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347337"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993473173"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993473176 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993473176">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347338"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993473175"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347338"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993473175"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993473178 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993473178">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347339"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993473177"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347339"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993473177"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993473180 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993473180">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347340"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993473179"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347340"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993473179"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993473182 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993473182">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347341"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993473181"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347341"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993473181"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993473184 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993473184">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347342"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993473183"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347342"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993473183"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993473186 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993473186">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347343"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993473185"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347343"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993473185"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.njupt.edu.cn#PureUC2_1615539993473188 -->
+
+    <owl:Class rdf:about="http://www.njupt.edu.cn#PureUC2_1615539993473188">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347344"/>
+                        <owl:someValuesFrom rdf:resource="http://www.njupt.edu.cn#Concept_1615539993473187"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.njupt.edu.cn#OP_161553999347344"/>
+                        <owl:allValuesFrom>
+                            <owl:Class>
+                                <owl:complementOf rdf:resource="http://www.njupt.edu.cn#Concept_1615539993473187"/>
+                            </owl:Class>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.3) http://owlapi.sourceforge.net -->
+

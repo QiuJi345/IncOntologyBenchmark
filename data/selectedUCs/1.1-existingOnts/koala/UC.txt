@@ -1,0 +1,3 @@
+http://protege.stanford.edu/plugins/owl/owl-library/koala.owl#Koala
+http://protege.stanford.edu/plugins/owl/owl-library/koala.owl#KoalaWithPhD
+http://protege.stanford.edu/plugins/owl/owl-library/koala.owl#Quokka

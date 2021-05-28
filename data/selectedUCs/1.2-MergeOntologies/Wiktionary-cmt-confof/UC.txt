@@ -1,0 +1,15 @@
+http://cmt#Co-author
+http://confOf#Working_event
+http://confOf#Short_paper
+http://cmt#AuthorNotReviewer
+http://cmt#Conference
+http://cmt#PaperFullVersion
+http://confOf#Workshop
+http://cmt#ProgramCommitteeMember
+http://cmt#Acceptance
+http://cmt#ProgramCommitteeChair
+http://confOf#Author
+http://confOf#Poster
+http://confOf#Tutorial
+http://cmt#Paper
+http://confOf#Paper

@@ -1,0 +1,15 @@
+http://mouse.owl#MA_0002460
+http://mouse.owl#MA_0002461
+http://mouse.owl#MA_0001130
+http://mouse.owl#MA_0002462
+http://mouse.owl#MA_0001131
+http://human.owl#NCI_C43630
+http://mouse.owl#MA_0001132
+http://mouse.owl#MA_0002463
+http://human.owl#NCI_C32977
+http://human.owl#NCI_C32976
+http://human.owl#NCI_C32979
+http://human.owl#NCI_C32978
+http://human.owl#NCI_C32973
+http://human.owl#NCI_C32972
+http://human.owl#NCI_C32975

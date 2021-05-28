@@ -1,0 +1,11 @@
+http://proton.semanticweb.org/SEACOAST
+http://proton.semanticweb.org/TEMPERATERAINFOREST
+http://proton.semanticweb.org/PRAIRIE
+http://proton.semanticweb.org/MARITIMESHELFAREA
+http://proton.semanticweb.org/VELDT
+http://proton.semanticweb.org/VOLCANICCONE
+http://proton.semanticweb.org/VOLCANICMOUNTAIN
+http://proton.semanticweb.org/RIVERBANK
+http://proton.semanticweb.org/RIVER
+http://proton.semanticweb.org/PAMPA
+http://proton.semanticweb.org/SAVANNA

@@ -1,0 +1,15 @@
+http://miniTambis#HoloProtein
+http://miniTambis#DivalentIon
+http://miniTambis#part-of-physical-structure
+http://miniTambis#isomerisation
+http://miniTambis#Hydrolysis
+http://miniTambis#Anion
+http://miniTambis#MultiStrandedPeptide
+http://miniTambis#SingleStrandedPeptide
+http://miniTambis#OxyReductReaction
+http://miniTambis#Gene-Product
+http://miniTambis#physical-space
+http://miniTambis#Peptide
+http://miniTambis#HoloProteinReaction
+http://miniTambis#racemation
+http://miniTambis#Hydrolase

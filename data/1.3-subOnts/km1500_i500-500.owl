@@ -1,0 +1,5654 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="owlapi:ontology:ont1#"
+     xml:base="owlapi:ontology:ont1"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="owlapi:ontology:ont1"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.text2onto.org/ontology#acquire_during_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#acquire_during_r">
+        <rdfs:range rdf:resource="http://www.text2onto.org/ontology#performance_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#address_of_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#address_of_r">
+        <rdfs:range rdf:resource="http://www.text2onto.org/ontology#design_knowledge_management_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#boost_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#boost_r">
+        <rdfs:range rdf:resource="http://www.text2onto.org/ontology#need_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#carry_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#carry_r">
+        <rdfs:range rdf:resource="http://www.text2onto.org/ontology#connotation_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#characterize_of_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#characterize_of_r">
+        <rdfs:domain rdf:resource="http://www.text2onto.org/ontology#paper_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#come_from_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#come_from_r">
+        <rdfs:range rdf:resource="http://www.text2onto.org/ontology#spitfire_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#contain_of_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#contain_of_r">
+        <rdfs:range rdf:resource="http://www.text2onto.org/ontology#papers_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#contain_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#contain_r">
+        <rdfs:domain rdf:resource="http://www.text2onto.org/ontology#index_repository_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#contradict_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#contradict_r">
+        <rdfs:range rdf:resource="http://www.text2onto.org/ontology#framework_c"/>
+        <rdfs:domain rdf:resource="http://www.text2onto.org/ontology#information_flow_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#cover_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#cover_r">
+        <rdfs:domain rdf:resource="http://www.text2onto.org/ontology#ontology_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#differ_in_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#differ_in_r">
+        <rdfs:range rdf:resource="http://www.text2onto.org/ontology#engineering_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#do_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#do_r">
+        <rdfs:domain rdf:resource="http://www.text2onto.org/ontology#role_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#draw_from_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#draw_from_r">
+        <rdfs:domain rdf:resource="http://www.text2onto.org/ontology#paper_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#draw_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#draw_r">
+        <rdfs:range rdf:resource="http://www.text2onto.org/ontology#evidence_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#employ_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#employ_r">
+        <rdfs:domain rdf:resource="http://www.text2onto.org/ontology#study_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#enable_for_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#enable_for_r">
+        <rdfs:range rdf:resource="http://www.text2onto.org/ontology#query_processing_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#entail_of_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#entail_of_r">
+        <rdfs:domain rdf:resource="http://www.text2onto.org/ontology#paper_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#envision_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#envision_r">
+        <rdfs:domain rdf:resource="http://www.text2onto.org/ontology#research_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#exploit_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#exploit_r">
+        <rdfs:range rdf:resource="http://www.text2onto.org/ontology#integration_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#explore_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#explore_r">
+        <rdfs:domain rdf:resource="http://www.text2onto.org/ontology#paper_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#face_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#face_r">
+        <rdfs:range rdf:resource="http://www.text2onto.org/ontology#obstacle_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#find_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#find_r">
+        <rdfs:range rdf:resource="http://www.text2onto.org/ontology#town_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#focus_on_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#focus_on_r">
+        <rdfs:domain rdf:resource="http://www.text2onto.org/ontology#paper_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#form_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#form_r">
+        <rdfs:range rdf:resource="http://www.text2onto.org/ontology#framework_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#give_of_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#give_of_r">
+        <rdfs:domain rdf:resource="http://www.text2onto.org/ontology#paper_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#highlight_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#highlight_r">
+        <rdfs:domain rdf:resource="http://www.text2onto.org/ontology#paper_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#hinder_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#hinder_r">
+        <rdfs:domain rdf:resource="http://www.text2onto.org/ontology#information_overload_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#impede_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#impede_r">
+        <rdfs:domain rdf:resource="http://www.text2onto.org/ontology#failure_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#include_for_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#include_for_r">
+        <rdfs:range rdf:resource="http://www.text2onto.org/ontology#decision_maker_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#investigate_between_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#investigate_between_r">
+        <rdfs:domain rdf:resource="http://www.text2onto.org/ontology#research_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#keep_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#keep_r">
+        <rdfs:range rdf:resource="http://www.text2onto.org/ontology#information_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#lie_within_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#lie_within_r">
+        <rdfs:range rdf:resource="http://www.text2onto.org/ontology#domain_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#mean_that_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#mean_that_r">
+        <rdfs:domain rdf:resource="http://www.text2onto.org/ontology#innovation_decision_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#monitor_for_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#monitor_for_r">
+        <rdfs:domain rdf:resource="http://www.text2onto.org/ontology#manager_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#offer_into_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#offer_into_r">
+        <rdfs:range rdf:resource="http://www.text2onto.org/ontology#stage_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#present_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#present_r">
+        <rdfs:domain rdf:resource="http://www.text2onto.org/ontology#paper_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#process_within_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#process_within_r">
+        <rdfs:domain rdf:resource="http://www.text2onto.org/ontology#knowledge_creation_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#propose_for_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#propose_for_r">
+        <rdfs:range rdf:resource="http://www.text2onto.org/ontology#understanding_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#provide_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#provide_r">
+        <rdfs:range rdf:resource="http://www.text2onto.org/ontology#management_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#put_on_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#put_on_r">
+        <rdfs:range rdf:resource="http://www.text2onto.org/ontology#ict_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#report_of_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#report_of_r">
+        <rdfs:range rdf:resource="http://www.text2onto.org/ontology#research_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#require_among_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#require_among_r">
+        <rdfs:domain rdf:resource="http://www.text2onto.org/ontology#solution_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#require_in_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#require_in_r">
+        <rdfs:domain rdf:resource="http://www.text2onto.org/ontology#km_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#suffer_from_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#suffer_from_r">
+        <rdfs:range rdf:resource="http://www.text2onto.org/ontology#number_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#take_of_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#take_of_r">
+        <rdfs:domain rdf:resource="http://www.text2onto.org/ontology#design_c"/>
+        <rdfs:range rdf:resource="http://www.text2onto.org/ontology#survey_research_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#use_through_r -->
+
+    <owl:ObjectProperty rdf:about="http://www.text2onto.org/ontology#use_through_r">
+        <rdfs:range rdf:resource="http://www.text2onto.org/ontology#dkdus_c"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.text2onto.org/ontology#ability_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#ability_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#challenge_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#abstract_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#abstract_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#access_tool_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#access_tool_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#tool_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#accountancy_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#accountancy_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#marketing_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#acquisition_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#acquisition_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#activist_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#activist_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#activity_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#activity_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#capability_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#activity_compose_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#activity_compose_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#compose_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#advantage_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#advantage_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#benefit_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#agent_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#agent_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#factor_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#agent_organization_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#agent_organization_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#trust_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#agile_methodology_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#agile_methodology_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#methodology_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#agile_software_development_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#agile_software_development_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#development_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#algorithm_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#algorithm_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#analogy_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#analogy_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#factor_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#analysis_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#analysis_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#flow_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#annotation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#annotation_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#answer_extraction_system_scalability_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#answer_extraction_system_scalability_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#toponym_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#application_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#application_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#system_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#application_environment_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#application_environment_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#environment_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#application_model_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#application_model_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#model_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#approach_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#approach_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#use_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#architecture_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#architecture_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#business_c"/>
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#study_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#are_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#are_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#area_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#area_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#field_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#art_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#art_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#art_exhibition_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#art_exhibition_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#exhibition_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#article_abstract_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#article_abstract_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#abstract_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#article_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#article_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#article_deal_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#article_deal_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#deal_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#aspect_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#aspect_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#assessment_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#assessment_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#attempt_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#attempt_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#attitude_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#attitude_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#audit_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#audit_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#weapon_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#author_productivity_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#author_productivity_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#productivity_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#automation_technology_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#automation_technology_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#technology_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#background_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#background_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#organization_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#balance_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#balance_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#bandwidth_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#bandwidth_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#basis_model_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#basis_model_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#model_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#behavior_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#behavior_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#nature_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#behaviour_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#behaviour_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#benefit_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#benefit_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#bidder_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#bidder_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#privacy_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#billion_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#billion_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#bivalent_logic_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#bivalent_logic_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#logic_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#boundary_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#boundary_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#boundary_theory_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#boundary_theory_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#theory_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#browser_software_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#browser_software_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#software_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#building_business_intelligence_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#building_business_intelligence_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#intelligence_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#business_activity_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#business_activity_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#activity_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#business_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#business_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#procedure_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#business_cycle_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#business_cycle_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#cycle_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#business_growth_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#business_growth_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#growth_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#business_information_system_model_coexist_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#business_information_system_model_coexist_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#coexist_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#business_initiative_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#business_initiative_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#initiative_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#business_jargon_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#business_jargon_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#jargon_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#business_knowledge_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#business_knowledge_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#knowledge_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#business_law_firm_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#business_law_firm_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#firm_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#business_management_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#business_management_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#management_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#business_milieu_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#business_milieu_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#milieu_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#business_modeling_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#business_modeling_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#business_process_modeling_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#business_process_modeling_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#business_process_modeling_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#business_regulation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#business_regulation_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#regulation_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#business_relationship_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#business_relationship_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#relationship_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#calendar_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#calendar_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#online_meeting_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#cannot_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#cannot_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#capability_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#capability_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#case_detail_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#case_detail_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#detail_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#category_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#category_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#delivery_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#challenge_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#challenge_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#progress_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#challenge_company_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#challenge_company_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#company_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#change_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#change_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#class_object_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#class_object_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#object_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#classification_notation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#classification_notation_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#notation_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#classroom_subject_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#classroom_subject_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#subject_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#clearance_request_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#clearance_request_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#request_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#client_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#client_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#vendor_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#coaching_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#coaching_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#diagnostic_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#coat_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#coat_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#coexist_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#coexist_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#collaboration_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#collaboration_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#knowledge_aspect_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#collaboration_project_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#collaboration_project_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#project_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#collection_guideline_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#collection_guideline_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#guideline_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#combination_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#combination_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#description_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#comment_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#comment_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#communication_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#communication_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#coordination_c"/>
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#information_access_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#communication_facility_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#communication_facility_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#facility_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#communication_model_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#communication_model_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#model_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#communication_programming_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#communication_programming_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#programming_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#communication_tool_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#communication_tool_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#tool_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#community_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#community_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#community_model_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#community_model_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#model_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#company_balance_sheet_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#company_balance_sheet_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#sheet_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#company_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#company_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#company_increase_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#company_increase_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#increase_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#competency_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#competency_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#reward_system_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#competitiveness_factor_cannot_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#competitiveness_factor_cannot_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#cannot_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#complexity_article_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#complexity_article_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#article_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#complexity_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#complexity_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#uncertainty_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#compose_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#compose_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#compound_designer_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#compound_designer_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#designer_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#computer_algebra_system_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#computer_algebra_system_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#system_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#computer_literature_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#computer_literature_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#literature_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#computer_scientist_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#computer_scientist_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#scientist_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#computer_system_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#computer_system_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#system_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#computer_system_engineering_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#computer_system_engineering_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#document_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#computer_technology_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#computer_technology_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#technology_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#computer_user_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#computer_user_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#user_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#computing_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#computing_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#field_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#concept_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#concept_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#perspective_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#concept_design_knowledge_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#concept_design_knowledge_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#knowledge_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#concern_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#concern_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#concern_firm_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#concern_firm_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#firm_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#conflict_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#conflict_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#solution_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#conflict_potential_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#conflict_potential_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#potential_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#connectivity_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#connectivity_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#system_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#connotation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#connotation_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#consideration_concern_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#consideration_concern_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#concern_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#constraint_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#constraint_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#construction_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#construction_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#construction_project_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#construction_project_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#project_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#consultancy_expertise_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#consultancy_expertise_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#expertise_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#content_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#content_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#intranet_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#content_management_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#content_management_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#process_management_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#context_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#context_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#narrative_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#contextual_knowledge_representation_model_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#contextual_knowledge_representation_model_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#model_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#continuance_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#continuance_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#contribution_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#contribution_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#control_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#control_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#value_orientation_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#control_inventory_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#control_inventory_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#inventory_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#conversation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#conversation_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#usability_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#conversation_support_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#conversation_support_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#support_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#coordination_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#coordination_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#efficiency_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#coordination_mechanism_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#coordination_mechanism_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#core_business_strategy_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#core_business_strategy_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#strategy_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#country_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#country_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#couple_process_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#couple_process_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#process_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#coverage_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#coverage_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#creativity_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#creativity_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#crew_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#crew_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#crisis_management_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#crisis_management_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#management_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#criterion_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#criterion_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#curriculum_development_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#curriculum_development_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#development_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#curriculum_goal_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#curriculum_goal_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#goal_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#customer_interaction_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#customer_interaction_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#interaction_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#customer_knowledge_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#customer_knowledge_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#knowledge_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#customer_need_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#customer_need_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#need_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#customer_support_service_business_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#customer_support_service_business_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#business_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#customization_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#customization_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#integration_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#cycle_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#cycle_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#database_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#database_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#investigator_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#datum_declaration_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#datum_declaration_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#declaration_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#datum_element_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#datum_element_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#element_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#datum_network_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#datum_network_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#network_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#datum_set_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#datum_set_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#set_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#deal_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#deal_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#dealer_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#dealer_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#distributor_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#debate_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#debate_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#decentralization_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#decentralization_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#product_v_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#decision_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#decision_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#decision_maker_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#decision_maker_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#decision_making_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#decision_making_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#transference_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#decision_scenario_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#decision_scenario_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#scenario_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#decision_support_application_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#decision_support_application_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#application_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#decision_support_knowledge_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#decision_support_knowledge_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#knowledge_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#decision_support_system_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#decision_support_system_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#system_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#decision_system_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#decision_system_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#system_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#decision_tree_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#decision_tree_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#tree_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#declaration_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#declaration_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#delivery_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#delivery_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#delivery_cycle_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#delivery_cycle_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#cycle_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#democracy_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#democracy_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#system_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#density_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#density_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#intensity_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#departure_point_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#departure_point_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#point_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#dependency_relationship_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#dependency_relationship_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#relationship_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#description_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#description_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#design_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#design_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#ethnography_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#design_criterion_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#design_criterion_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#criterion_c"/>
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#principle_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#design_information_system_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#design_information_system_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#system_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#design_knowledge_management_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#design_knowledge_management_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#design_knowledge_management_system_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#design_knowledge_management_system_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#system_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#design_research_approach_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#design_research_approach_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#approach_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#designer_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#designer_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#detail_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#detail_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#developer_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#developer_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#development_activity_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#development_activity_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#activity_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#development_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#development_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#development_effort_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#development_effort_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#effort_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#diagnostic_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#diagnostic_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#dialogue_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#dialogue_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#www_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#diffuse_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#diffuse_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#discourse_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#discourse_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#discussion_forum_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#discussion_forum_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#meeting_system_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#distribution_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#distribution_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#distributor_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#distributor_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#dkdus_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#dkdus_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#document_acquisition_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#document_acquisition_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#acquisition_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#document_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#document_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#document_content_extraction_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#document_content_extraction_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#document_management_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#document_management_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#document_content_extraction_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#document_retrieval_module_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#document_retrieval_module_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#module_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#document_server_concept_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#document_server_concept_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#concept_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#documentation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#documentation_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#technology_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#domain_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#domain_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#domain_monitoring_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#domain_monitoring_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#monitoring_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#draft_annotation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#draft_annotation_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#annotation_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#drug_market_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#drug_market_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#market_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#economics_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#economics_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#education_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#economy_premise_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#economy_premise_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#premise_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#edge_knowledge_management_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#edge_knowledge_management_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#management_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#edge_knowledge_management_system_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#edge_knowledge_management_system_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#system_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#education_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#education_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#effectiveness_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#effectiveness_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#effectiveness_checking_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#effectiveness_checking_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#uniqueness_checking_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#efficiency_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#efficiency_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#effort_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#effort_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#element_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#element_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#element_coverage_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#element_coverage_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#coverage_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#element_name_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#element_name_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#name_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#emergence_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#emergence_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#enemy_reaction_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#enemy_reaction_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#reaction_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#energy_industry_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#energy_industry_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#marketer_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#enforcement_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#enforcement_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#engineering_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#engineering_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#engineering_domain_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#engineering_domain_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#domain_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#enterprise_datum_warehousing_environment_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#enterprise_datum_warehousing_environment_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#environment_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#enterprise_engineering_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#enterprise_engineering_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#query_processing_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#enterprise_integration_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#enterprise_integration_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#integration_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#enterprise_knowledge_management_process_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#enterprise_knowledge_management_process_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#process_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#environment_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#environment_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#environment_pressure_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#environment_pressure_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#pressure_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#environment_work_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#environment_work_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#work_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#era_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#era_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#essay_comment_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#essay_comment_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#comment_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#ethnography_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#ethnography_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#evaluation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#evaluation_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#evaluation_method_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#evaluation_method_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#method_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#evaluation_stage_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#evaluation_stage_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#stage_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#evidence_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#evidence_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#example_address_learning_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#example_address_learning_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#learning_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#example_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#example_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#communication_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#example_publication_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#example_publication_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#publication_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#executive_information_system_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#executive_information_system_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#information_infrastructure_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#executive_summary_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#executive_summary_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#summary_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#exhibit_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#exhibit_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#exhibition_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#exhibition_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#expatriate_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#expatriate_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#experience_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#experience_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#expert_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#expert_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#expert_know-how_extraction_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#expert_know-how_extraction_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#extraction_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#expertise_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#expertise_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#expertise_mapping_ability_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#expertise_mapping_ability_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#ability_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#exploitation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#exploitation_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#extraction_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#extraction_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#facility_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#facility_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#factor_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#factor_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#need_c"/>
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#organisation_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#failure_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#failure_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#field_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#field_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#field_experiment_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#field_experiment_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#interview_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#finance_company_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#finance_company_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#company_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#firm_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#firm_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#flexibility_increase_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#flexibility_increase_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#increase_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#flow_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#flow_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#form_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#form_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#form_processing_solution_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#form_processing_solution_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#solution_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#foundation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#foundation_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#framework_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#framework_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#framework_proposal_set_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#framework_proposal_set_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#set_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#framework_utilize_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#framework_utilize_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#utilize_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#freedom_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#freedom_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#reflexivity_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#frequency_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#frequency_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#gas_company_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#gas_company_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#company_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#generating_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#generating_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#processing_information_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#generation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#generation_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#globalization_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#globalization_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#technology_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#goal_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#goal_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#government_body_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#government_body_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#organisation_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#government_project_attempt_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#government_project_attempt_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#attempt_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#grid_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#grid_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#group_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#group_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#group_decision_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#group_decision_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#decision_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#growth_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#growth_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#guideline_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#guideline_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#healthcare_field_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#healthcare_field_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#pressure_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#helper_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#helper_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#home_worker_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#home_worker_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#worker_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#hospital_information_system_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#hospital_information_system_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#system_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#hypermedium_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#hypermedium_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#working_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#ict_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#ict_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#implementation_architecture_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#implementation_architecture_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#architecture_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#implementation_issue_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#implementation_issue_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#issue_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#implementation_level_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#implementation_level_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#level_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#increase_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#increase_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#index_repository_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#index_repository_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#industry_accident_assessment_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#industry_accident_assessment_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#assessment_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#industry_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#industry_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#organization_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#industry_landscape_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#industry_landscape_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#landscape_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#industry_standard_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#industry_standard_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#standard_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#information-processing_view_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#information-processing_view_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#view_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#information_access_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#information_access_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#information_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#information_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#power_c"/>
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#knowledge_management_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#information_delivery_medium_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#information_delivery_medium_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#medium_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#information_dissemination_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#information_dissemination_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#training_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#information_era_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#information_era_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#era_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#information_flow_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#information_flow_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#information_genetics_model_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#information_genetics_model_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#model_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#information_infrastructure_aspect_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#information_infrastructure_aspect_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#aspect_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#information_infrastructure_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#information_infrastructure_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#information_kernel_technology_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#information_kernel_technology_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#technology_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#information_market_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#information_market_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#market_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#information_memory_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#information_memory_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#memory_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#information_overload_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#information_overload_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#information_resource_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#information_resource_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#information_retrieval_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#information_retrieval_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#ius_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#information_retrieval_service_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#information_retrieval_service_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#service_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#information_skill_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#information_skill_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#skill_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#information_structuring_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#information_structuring_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#processing_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#information_technology_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#information_technology_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#organization_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#information_technology_infrastructure_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#information_technology_infrastructure_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#infrastructure_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#information_worker_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#information_worker_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#worker_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#infrastructure_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#infrastructure_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#initiative_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#initiative_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#innovation_decision_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#innovation_decision_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#innovation_management_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#innovation_management_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#management_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#innovation_net_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#innovation_net_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#net_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#innovation_performance_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#innovation_performance_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#performance_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#instance_boundary_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#instance_boundary_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#boundary_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#instrument_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#instrument_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#integrate_datum_mining_technique_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#integrate_datum_mining_technique_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#technique_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#integration_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#integration_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#intelligence_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#intelligence_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#intelligence_information_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#intelligence_information_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#information_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#intensity_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#intensity_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#interaction_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#interaction_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#interest_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#interest_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#interface_designer_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#interface_designer_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#researcher_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#interface_simplicity_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#interface_simplicity_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#simplicity_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#intermediation_relationship_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#intermediation_relationship_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#relationship_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#internalization_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#internalization_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#interpretation_modifier_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#interpretation_modifier_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#modifier_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#interval_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#interval_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#interview_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#interview_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#intranet_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#intranet_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#inventory_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#inventory_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#investigator_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#investigator_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#investment_decision_making_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#investment_decision_making_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#making_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#issue_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#issue_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#ius_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#ius_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#jargon_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#jargon_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#km_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#km_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowhow_document_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowhow_document_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#document_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowledge_activist_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowledge_activist_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#activist_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowledge_aspect_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowledge_aspect_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowledge_awareness_strategy_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowledge_awareness_strategy_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#strategy_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowledge_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowledge_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#skill_c"/>
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#politics_c"/>
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#relevance_c"/>
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#system_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowledge_cannot_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowledge_cannot_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#cannot_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowledge_capture_program_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowledge_capture_program_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#program_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowledge_change_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowledge_change_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#change_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowledge_creation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowledge_creation_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#utilisation_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowledge_creation_process_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowledge_creation_process_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#process_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowledge_development_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowledge_development_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#development_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowledge_distribution_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowledge_distribution_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#distribution_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowledge_domain_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowledge_domain_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#processing_characteristic_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowledge_emergence_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowledge_emergence_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#emergence_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowledge_exploitation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowledge_exploitation_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#exploitation_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowledge_flow_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowledge_flow_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#flow_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowledge_growth_system_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowledge_growth_system_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#system_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowledge_loss_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowledge_loss_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#loss_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowledge_management_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowledge_management_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#programming_language_evolution_c"/>
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#system_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowledge_management_debate_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowledge_management_debate_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#debate_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowledge_management_discourse_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowledge_management_discourse_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#discourse_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowledge_management_evaluation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowledge_management_evaluation_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#evaluation_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowledge_management_research_community_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowledge_management_research_community_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#community_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowledge_management_system_initiative_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowledge_management_system_initiative_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#initiative_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowledge_management_teaching_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowledge_management_teaching_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#teaching_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowledge_management_technology_project_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowledge_management_technology_project_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#project_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowledge_network_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowledge_network_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#network_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowledge_retention_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowledge_retention_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#retention_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#knowledge_reusability_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#knowledge_reusability_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#reusability_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#laboratory_paradigm_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#laboratory_paradigm_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#paradigm_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#ladder_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#ladder_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#landscape_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#landscape_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#language_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#language_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#law_enforcement_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#law_enforcement_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#enforcement_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#learning_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#learning_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#learning_ladder_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#learning_ladder_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#ladder_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#learning_today_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#learning_today_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#today_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#level_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#level_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#library_staff_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#library_staff_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#staff_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#line_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#line_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#link_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#link_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#papers_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#link_information_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#link_information_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#information_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#literature_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#literature_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#literature_mining_technique_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#literature_mining_technique_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#technique_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#location_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#location_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#factor_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#logic_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#logic_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#loss_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#loss_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#machinery_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#machinery_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#mail_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#mail_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#mainstream_part_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#mainstream_part_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#part_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#maintenance_technician_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#maintenance_technician_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#technician_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#making_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#making_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#management_balance_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#management_balance_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#balance_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#management_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#management_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#management_problem_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#management_problem_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#problem_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#management_responsibility_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#management_responsibility_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#responsibility_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#management_theory_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#management_theory_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#theory_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#manager_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#manager_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#manipulation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#manipulation_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#application_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#manufacturing_company_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#manufacturing_company_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#company_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#manufacturing_know-how_integration_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#manufacturing_know-how_integration_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#integration_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#mapping_relationship_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#mapping_relationship_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#relationship_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#market_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#market_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#product_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#market_efficiency_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#market_efficiency_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#efficiency_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#marketer_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#marketer_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#marketing_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#marketing_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#marketing_sector_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#marketing_sector_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#sector_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#markup_language_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#markup_language_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#language_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#matrix_management_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#matrix_management_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#management_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#maturity_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#maturity_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#stability_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#mechanism_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#mechanism_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#medium_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#medium_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#meeting_support_system_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#meeting_support_system_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#system_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#meeting_system_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#meeting_system_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#memory_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#memory_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#computer_system_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#message_path_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#message_path_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#path_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#meta_model_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#meta_model_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#model_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#metada_management_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#metada_management_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#management_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#method_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#method_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#methodology_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#methodology_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#milieu_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#milieu_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#mining_operation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#mining_operation_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#operation_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#mode_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#mode_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#model_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#model_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#modification_capability_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#modification_capability_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#capability_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#modifier_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#modifier_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#module_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#module_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#monitoring_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#monitoring_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#multifunctional_activity_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#multifunctional_activity_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#activity_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#multifunctional_knowledge_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#multifunctional_knowledge_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#knowledge_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#multimedium_computer_package_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#multimedium_computer_package_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#package_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#multimedium_information_system_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#multimedium_information_system_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#system_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#name_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#name_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#narrative_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#narrative_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#nature_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#nature_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#need_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#need_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#net_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#net_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#network_bandwidth_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#network_bandwidth_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#bandwidth_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#network_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#network_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#network_security_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#network_security_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#security_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#network_system_continuance_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#network_system_continuance_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#continuance_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#notation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#notation_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#number_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#number_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#company_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#object_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#object_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#obstacle_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#obstacle_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#online_information_vendor_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#online_information_vendor_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#vendor_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#online_meeting_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#online_meeting_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#ontology_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#ontology_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#operation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#operation_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#operation_management_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#operation_management_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#management_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#operationalize_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#operationalize_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#operator_worldwide_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#operator_worldwide_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#worldwide_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#order_change_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#order_change_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#change_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#organisation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#organisation_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#group_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#organisational_community_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#organisational_community_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#community_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#organisational_context_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#organisational_context_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#context_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#organization_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#organization_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#activity_c"/>
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#vehicle_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#organization_form_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#organization_form_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#form_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#organization_theory_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#organization_theory_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#theory_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#orientation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#orientation_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#package_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#package_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#paper_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#paper_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#product_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#paper_creativity_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#paper_creativity_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#creativity_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#paper_mail_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#paper_mail_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#mail_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#papers_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#papers_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#paradigm_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#paradigm_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#part_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#part_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#path_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#path_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#pc_software_use_skill_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#pc_software_use_skill_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#skill_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#people_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#people_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#thing_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#people_management_practice_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#people_management_practice_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#practice_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#performance_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#performance_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#performance_improvement_knowledge_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#performance_improvement_knowledge_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#knowledge_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#performance_reporting_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#performance_reporting_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#reporting_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#period_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#period_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#personnel_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#personnel_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#personnel_role_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#personnel_role_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#role_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#perspective_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#perspective_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#perspective_making_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#perspective_making_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#coordination_mechanism_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#phase_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#phase_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#pilot_phase_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#pilot_phase_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#phase_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#pilot_project_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#pilot_project_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#project_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#planning_application_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#planning_application_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#tax_collection_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#play_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#play_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#point_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#point_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#policy_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#policy_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#policy_making_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#policy_making_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#making_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#politics_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#politics_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#potential_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#potential_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#power_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#power_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#practice_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#practice_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#research_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#premier_provider_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#premier_provider_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#provider_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#premise_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#premise_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#presentation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#presentation_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#report_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#pressure_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#pressure_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#principle_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#principle_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#prioritize_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#prioritize_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#privacy_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#privacy_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#problem_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#problem_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#time_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#procedure_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#procedure_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#process_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#process_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#development_c"/>
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#document_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#process_design_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#process_design_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#production_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#process_development_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#process_development_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#development_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#process_management_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#process_management_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#process_management_project_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#process_management_project_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#project_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#process_recognition_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#process_recognition_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#recognition_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#processing_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#processing_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#processing_characteristic_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#processing_characteristic_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#processing_information_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#processing_information_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#processual_nature_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#processual_nature_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#nature_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#product_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#product_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#product_complexity_increase_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#product_complexity_increase_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#increase_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#product_configuration_system_stretch_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#product_configuration_system_stretch_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#stretch_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#product_effectiveness_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#product_effectiveness_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#effectiveness_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#product_exhibit_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#product_exhibit_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#exhibit_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#product_v_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#product_v_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#production_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#production_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#production_line_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#production_line_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#line_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#production_stream_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#production_stream_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#stream_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#productivity_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#productivity_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#wealth_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#productivity_v_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#productivity_v_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#v_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#profession_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#profession_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#program_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#program_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#programming_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#programming_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#programming_language_evolution_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#programming_language_evolution_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#programming_technology_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#programming_technology_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#technology_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#progress_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#progress_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#project_benefit_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#project_benefit_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#benefit_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#project_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#project_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#project_orientation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#project_orientation_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#orientation_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#proof_theory_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#proof_theory_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#theory_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#prototype_requirement_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#prototype_requirement_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#requirement_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#provider_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#provider_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#publication_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#publication_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#purpose_programming_language_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#purpose_programming_language_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#software_developer_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#quality_system_document_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#quality_system_document_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#document_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#query_construction_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#query_construction_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#construction_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#query_processing_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#query_processing_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#reaction_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#reaction_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#reasoning_play_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#reasoning_play_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#play_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#recognition_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#recognition_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#reflexivity_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#reflexivity_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#regulation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#regulation_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#relationship_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#relationship_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#relevance_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#relevance_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#remedial_need_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#remedial_need_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#need_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#report_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#report_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#reporting_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#reporting_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#representational_space_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#representational_space_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#space_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#request_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#request_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#requirement_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#requirement_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#requirement_engineering_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#requirement_engineering_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#translingual_information_retrieval_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#requirement_part_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#requirement_part_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#part_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#research_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#research_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#research_contribution_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#research_contribution_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#contribution_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#research_experience_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#research_experience_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#experience_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#research_foundation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#research_foundation_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#foundation_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#researcher_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#researcher_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#resource_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#resource_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#resource_management_model_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#resource_management_model_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#model_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#responsibility_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#responsibility_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#restriction_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#restriction_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#constraint_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#result_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#result_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#solution_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#retention_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#retention_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#retrieval_tool_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#retrieval_tool_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#tool_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#reusability_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#reusability_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#reuse_core_expert_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#reuse_core_expert_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#expert_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#reward_system_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#reward_system_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#role_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#role_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#use_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#safety_problem_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#safety_problem_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#problem_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#scenario_aspect_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#scenario_aspect_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#aspect_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#scenario_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#scenario_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#scenario_model_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#scenario_model_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#model_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#scientist_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#scientist_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#scope_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#scope_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#time_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#scorecard_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#scorecard_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#supply_chain_analytic_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#sector_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#sector_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#security_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#security_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#server_resource_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#server_resource_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#resource_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#service_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#service_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#profession_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#service_flow_generation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#service_flow_generation_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#generation_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#set_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#set_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#work_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#setting_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#setting_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#sheet_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#sheet_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#simplicity_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#simplicity_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#simulation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#simulation_c">
+        <owl:disjointWith rdf:resource="http://www.text2onto.org/ontology#survey_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#site_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#site_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#sketch_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#sketch_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#skill_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#skill_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#skill_development_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#skill_development_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#development_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#software_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#software_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#software_developer_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#software_developer_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#software_development_business_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#software_development_business_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#business_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#software_engineering_community_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#software_engineering_community_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#community_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#software_service_industry_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#software_service_industry_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#industry_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#solution_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#solution_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#space_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#space_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#space_flight_operation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#space_flight_operation_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#operation_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#speaking_country_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#speaking_country_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#country_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#specialist_helper_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#specialist_helper_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#helper_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#spitfire_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#spitfire_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#stability_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#stability_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#staff_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#staff_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#stage_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#stage_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#stakeholder_interest_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#stakeholder_interest_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#interest_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#standard_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#standard_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#state_level_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#state_level_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#level_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#strategy_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#strategy_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#stream_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#stream_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#stretch_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#stretch_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#study_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#study_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#art_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#subject_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#subject_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#summary_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#summary_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#supplier_company_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#supplier_company_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#company_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#supply_boat_crew_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#supply_boat_crew_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#crew_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#supply_chain_analytic_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#supply_chain_analytic_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#supply_chain_grid_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#supply_chain_grid_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#grid_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#supply_chain_virtualization_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#supply_chain_virtualization_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#virtualization_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#support_algorithm_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#support_algorithm_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#algorithm_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#support_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#support_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#communication_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#support_need_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#support_need_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#need_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#support_personnel_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#support_personnel_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#personnel_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#survey_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#survey_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#survey_instrument_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#survey_instrument_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#instrument_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#survey_research_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#survey_research_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#sustainability_framework_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#sustainability_framework_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#framework_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#synonym_set_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#synonym_set_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#set_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#system_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#system_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#knowledge_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#system_level_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#system_level_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#level_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#system_manager_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#system_manager_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#manager_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#system_memory_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#system_memory_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#memory_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#system_prioritize_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#system_prioritize_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#prioritize_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#tabular_knowledge_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#tabular_knowledge_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#knowledge_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#target_problem_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#target_problem_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#problem_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#target_setting_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#target_setting_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#setting_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#tax_collection_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#tax_collection_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#teaching_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#teaching_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#teaching_practice_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#teaching_practice_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#practice_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#team_problem_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#team_problem_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#problem_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#team_setting_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#team_setting_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#setting_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#technician_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#technician_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#technique_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#technique_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#technology_are_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#technology_are_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#are_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#technology_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#technology_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#information_resource_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#technology_exploitation_mode_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#technology_exploitation_mode_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#mode_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#technology_internalization_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#technology_internalization_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#internalization_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#telecommunications_firm_operationalize_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#telecommunications_firm_operationalize_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#operationalize_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#term_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#term_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#form_c"/>
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#part_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#term_expatriate_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#term_expatriate_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#expatriate_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#terminology_acquisition_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#terminology_acquisition_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#acquisition_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#text_type_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#text_type_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#type_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#textual_resource_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#textual_resource_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#resource_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#theory_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#theory_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#thing_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#thing_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#time_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#time_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#time_period_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#time_period_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#period_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#tire_design_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#tire_design_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#design_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#today_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#today_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#today_software_developer_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#today_software_developer_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#developer_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#tool_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#tool_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#toponym_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#toponym_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#town_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#town_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#trading_partner_communication_frequency_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#trading_partner_communication_frequency_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#frequency_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#training_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#training_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#training_time_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#training_time_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#time_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#transfer_expert_knowledge_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#transfer_expert_knowledge_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#knowledge_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#transference_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#transference_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#transformation_mechanism_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#transformation_mechanism_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#mechanism_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#translingual_information_retrieval_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#translingual_information_retrieval_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#tree_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#tree_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#trench_coat_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#trench_coat_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#coat_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#trust_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#trust_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#truth_interval_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#truth_interval_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#interval_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#turbine_machinery_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#turbine_machinery_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#machinery_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#type_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#type_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#concept_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#uncertainty_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#uncertainty_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#understanding_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#understanding_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#understanding_knowledge_management_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#understanding_knowledge_management_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#management_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#understanding_organisation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#understanding_organisation_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#organisation_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#understanding_user_behaviour_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#understanding_user_behaviour_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#behaviour_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#uniqueness_checking_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#uniqueness_checking_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#university_policy_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#university_policy_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#policy_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#usability_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#usability_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#use_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#use_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#user_attitude_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#user_attitude_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#attitude_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#user_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#user_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#model_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#user_performance_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#user_performance_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#performance_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#user_sketch_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#user_sketch_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#sketch_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#utilisation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#utilisation_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#utility_company_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#utility_company_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#company_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#utilize_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#utilize_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#v_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#v_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#value_orientation_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#value_orientation_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#vehicle_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#vehicle_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#vendor_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#vendor_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#video_content_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#video_content_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#content_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#view_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#view_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#virtualization_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#virtualization_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#vocational_literature_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#vocational_literature_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#literature_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#way_knowledge_diffuse_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#way_knowledge_diffuse_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#diffuse_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#wealth_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#wealth_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#weapon_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#weapon_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#work_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#work_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#work_context_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#work_context_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#context_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#work_environment_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#work_environment_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#environment_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#work_site_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#work_site_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#site_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#worker_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#worker_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#workflow_management_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#workflow_management_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#management_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#working_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#working_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#world_billion_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#world_billion_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#billion_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#worldwide_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#worldwide_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#www_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#www_c"/>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#year_effort_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#year_effort_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#effort_c"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.text2onto.org/ontology#yield_management_tool_c -->
+
+    <owl:Class rdf:about="http://www.text2onto.org/ontology#yield_management_tool_c">
+        <rdfs:subClassOf rdf:resource="http://www.text2onto.org/ontology#tool_c"/>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.3) http://owlapi.sourceforge.net -->
+

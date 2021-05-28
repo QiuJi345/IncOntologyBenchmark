@@ -1,0 +1,15 @@
+http://proton.semanticweb.org/PROTOCOL
+http://proton.semanticweb.org/MEDIA
+http://proton.semanticweb.org/BEDDING
+http://proton.semanticweb.org/DISEASELOCATION
+http://proton.semanticweb.org/GROWTHCONDITION
+http://proton.semanticweb.org/INDIVIDUAL
+http://proton.semanticweb.org/AGE
+http://proton.semanticweb.org/DEVELOPMENTALSTAGE
+http://proton.semanticweb.org/HUMIDITY
+http://proton.semanticweb.org/HAPLOTYPE
+http://proton.semanticweb.org/CELLLINE
+http://proton.semanticweb.org/BIOSOURCE
+http://proton.semanticweb.org/TUMORGRADING
+http://proton.semanticweb.org/ORGANISMSTATUS
+http://proton.semanticweb.org/BIOSOURCEPROVIDER

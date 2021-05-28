@@ -1,0 +1,15 @@
+http://proton.semanticweb.org/2004/12/protonu#MeetingProceedings
+http://proton.semanticweb.org/2004/12/protonu#Executive
+http://proton.semanticweb.org/2004/12/protonu#NewspaperIssue
+http://proton.semanticweb.org/2004/12/protonu#MagazineIssue
+http://proton.semanticweb.org/2004/12/protonu#University
+http://proton.semanticweb.org/2004/12/protonu#Announcement
+http://proton.semanticweb.org/2004/12/protonu#Employee
+http://proton.semanticweb.org/2004/12/protonu#Premier
+http://proton.semanticweb.org/2004/12/protonu#Government
+http://proton.semanticweb.org/2004/12/protonu#Article
+http://proton.semanticweb.org/2004/12/protonu#Book
+http://proton.semanticweb.org/2004/12/protonu#Minister
+http://proton.semanticweb.org/2004/12/protonu#Reservoir
+http://proton.semanticweb.org/2004/12/protonu#IssueOfPeriodical
+http://proton.semanticweb.org/2004/12/protonu#GlobalRegion

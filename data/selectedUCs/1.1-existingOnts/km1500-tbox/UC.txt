@@ -1,0 +1,15 @@
+http://www.text2onto.org/ontology#information_memory_c
+http://www.text2onto.org/ontology#hierarchy_process_c
+http://www.text2onto.org/ontology#multilingual_representation_c
+http://www.text2onto.org/ontology#share_datum_c
+http://www.text2onto.org/ontology#information_retrieval_c
+http://www.text2onto.org/ontology#case_study_organisation_c
+http://www.text2onto.org/ontology#collaboration_network_c
+http://www.text2onto.org/ontology#career_structure_c
+http://www.text2onto.org/ontology#case_organisation_c
+http://www.text2onto.org/ontology#query_tool_c
+http://www.text2onto.org/ontology#group_technology_c
+http://www.text2onto.org/ontology#software_development_practice_c
+http://www.text2onto.org/ontology#information_management_c
+http://www.text2onto.org/ontology#ontology_model_c
+http://www.text2onto.org/ontology#insulin_therapy_support_c

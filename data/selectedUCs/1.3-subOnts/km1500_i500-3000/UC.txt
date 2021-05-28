@@ -1,0 +1,15 @@
+http://www.text2onto.org/ontology#business_c
+http://www.text2onto.org/ontology#information_memory_c
+http://www.text2onto.org/ontology#heart_disease_patient_model_c
+http://www.text2onto.org/ontology#sharing_network_c
+http://www.text2onto.org/ontology#change_c
+http://www.text2onto.org/ontology#communication_study_c
+http://www.text2onto.org/ontology#policy_information_system_c
+http://www.text2onto.org/ontology#favourite_model_c
+http://www.text2onto.org/ontology#development_issue_c
+http://www.text2onto.org/ontology#business_system_design_c
+http://www.text2onto.org/ontology#understanding_organisation_c
+http://www.text2onto.org/ontology#case_firm_c
+http://www.text2onto.org/ontology#information_technology_consulting_firm_c
+http://www.text2onto.org/ontology#list_server_c
+http://www.text2onto.org/ontology#commerce_strategy_business_c

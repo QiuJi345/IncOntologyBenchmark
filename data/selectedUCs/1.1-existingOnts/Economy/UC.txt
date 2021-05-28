@@ -1,0 +1,15 @@
+http://reliant.teknowledge.com/DAML/Economy.owl#Clover
+http://reliant.teknowledge.com/DAML/Economy.owl#Lime
+http://reliant.teknowledge.com/DAML/Economy.owl#Plantain
+http://reliant.teknowledge.com/DAML/Economy.owl#Cassava
+http://reliant.teknowledge.com/DAML/Economy.owl#Lumber
+http://reliant.teknowledge.com/DAML/Economy.owl#Cucumber
+http://reliant.teknowledge.com/DAML/Economy.owl#Machinery
+http://reliant.teknowledge.com/DAML/Economy.owl#CitrusFruit
+http://reliant.teknowledge.com/DAML/Economy.owl#YamTuber
+http://reliant.teknowledge.com/DAML/Economy.owl#SweetPotatoTuber
+http://reliant.teknowledge.com/DAML/Economy.owl#Papaw
+http://reliant.teknowledge.com/DAML/Economy.owl#SweetPepper
+http://reliant.teknowledge.com/DAML/Economy.owl#TaroTuber
+http://reliant.teknowledge.com/DAML/Economy.owl#GreenPepper
+http://reliant.teknowledge.com/DAML/Economy.owl#HandwovenCarpet

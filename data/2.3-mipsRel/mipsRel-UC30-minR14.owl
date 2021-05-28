@@ -1,0 +1,971 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://radon.ontoware.org/example1615896145801-0#"
+     xml:base="http://radon.ontoware.org/example1615896145801-0"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://radon.ontoware.org/example1615896145801-0"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://njupt.edu.cn#concept-1 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-1">
+        <owl:disjointWith rdf:resource="http://njupt.edu.cn#concept-2"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-10 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-10">
+        <owl:disjointWith rdf:resource="http://njupt.edu.cn#concept-9"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-100 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-100">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-98"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-101 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-101">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-100"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-102 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-102">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-104"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-97"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-103 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-103">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-98"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-104 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-104">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-103"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-105 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-105">
+        <owl:disjointWith rdf:resource="http://njupt.edu.cn#concept-106"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-106 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-106"/>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-107 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-107">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-105"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-109"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-108 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-108">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-106"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-109 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-109">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-108"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-11 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-11">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-13"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-9"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-110 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-110">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-105"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-112"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-111 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-111">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-106"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-112 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-112">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-111"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-113 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-113">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-105"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-115"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-114 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-114">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-106"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-115 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-115">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-114"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-116 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-116">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-105"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-118"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-117 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-117">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-106"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-118 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-118">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-117"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-12 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-12">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-10"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-13 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-13">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-12"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-14 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-14">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-16"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-9"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-15 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-15">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-10"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-16 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-16">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-15"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-17 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-17">
+        <owl:disjointWith rdf:resource="http://njupt.edu.cn#concept-18"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-18 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-18"/>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-19 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-19">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-17"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-21"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-2 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-2"/>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-20 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-20">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-18"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-21 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-21">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-20"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-22 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-22">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-17"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-24"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-23 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-23">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-18"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-24 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-24">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-23"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-25 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-25">
+        <owl:disjointWith rdf:resource="http://njupt.edu.cn#concept-26"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-26 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-26"/>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-27 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-27">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-25"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-29"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-28 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-28">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-26"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-29 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-29">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-28"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-3 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-3">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-1"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-5"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-30 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-30">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-25"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-32"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-31 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-31">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-26"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-32 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-32">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-31"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-33 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-33">
+        <owl:disjointWith rdf:resource="http://njupt.edu.cn#concept-34"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-34 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-34"/>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-35 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-35">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-33"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-37"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-36 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-36">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-34"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-37 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-37">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-36"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-38 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-38">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-33"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-40"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-39 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-39">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-34"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-4 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-4">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-2"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-40 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-40">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-39"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-41 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-41">
+        <owl:disjointWith rdf:resource="http://njupt.edu.cn#concept-42"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-42 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-42"/>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-43 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-43">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-41"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-45"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-44 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-44">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-42"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-45 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-45">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-44"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-46 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-46">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-41"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-48"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-47 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-47">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-42"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-48 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-48">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-47"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-49 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-49">
+        <owl:disjointWith rdf:resource="http://njupt.edu.cn#concept-50"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-5 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-5">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-4"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-50 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-50"/>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-51 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-51">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-49"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-53"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-52 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-52">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-50"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-53 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-53">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-52"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-54 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-54">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-49"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-56"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-55 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-55">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-50"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-56 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-56">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-55"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-57 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-57">
+        <owl:disjointWith rdf:resource="http://njupt.edu.cn#concept-58"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-58 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-58"/>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-59 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-59">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-57"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-61"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-6 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-6">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-1"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-8"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-60 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-60">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-58"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-61 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-61">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-60"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-62 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-62">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-57"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-64"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-63 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-63">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-58"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-64 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-64">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-63"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-65 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-65">
+        <owl:disjointWith rdf:resource="http://njupt.edu.cn#concept-66"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-66 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-66"/>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-67 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-67">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-65"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-69"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-68 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-68">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-66"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-69 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-69">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-68"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-7 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-7">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-2"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-70 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-70">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-65"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-72"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-71 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-71">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-66"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-72 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-72">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-71"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-73 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-73">
+        <owl:disjointWith rdf:resource="http://njupt.edu.cn#concept-74"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-74 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-74"/>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-75 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-75">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-73"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-77"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-76 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-76">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-74"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-77 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-77">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-76"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-78 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-78">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-73"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-80"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-79 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-79">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-74"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-8 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-8">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-7"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-80 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-80">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-79"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-81 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-81">
+        <owl:disjointWith rdf:resource="http://njupt.edu.cn#concept-82"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-82 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-82"/>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-83 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-83">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-81"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-85"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-84 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-84">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-82"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-85 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-85">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-84"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-86 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-86">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-81"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-88"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-87 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-87">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-82"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-88 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-88">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-87"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-89 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-89">
+        <owl:disjointWith rdf:resource="http://njupt.edu.cn#concept-90"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-9 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-9"/>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-90 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-90"/>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-91 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-91">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-89"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-93"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-92 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-92">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-90"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-93 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-93">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-92"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-94 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-94">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-89"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-96"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-95 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-95">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-90"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-96 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-96">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-95"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-97 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-97">
+        <owl:disjointWith rdf:resource="http://njupt.edu.cn#concept-98"/>
+    </owl:Class>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-98 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-98"/>
+    
+
+
+    <!-- http://njupt.edu.cn#concept-99 -->
+
+    <owl:Class rdf:about="http://njupt.edu.cn#concept-99">
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-101"/>
+        <rdfs:subClassOf rdf:resource="http://njupt.edu.cn#concept-97"/>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.3) http://owlapi.sourceforge.net -->
+

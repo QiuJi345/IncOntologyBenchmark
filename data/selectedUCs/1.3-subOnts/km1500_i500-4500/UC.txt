@@ -1,0 +1,15 @@
+http://www.text2onto.org/ontology#information_memory_c
+http://www.text2onto.org/ontology#knowledge_model_c
+http://www.text2onto.org/ontology#fuel_result_c
+http://www.text2onto.org/ontology#knowledge_infrastructure_mapping_tool_c
+http://www.text2onto.org/ontology#insight_c
+http://www.text2onto.org/ontology#favourite_model_c
+http://www.text2onto.org/ontology#environment_solution_c
+http://www.text2onto.org/ontology#success_factor_c
+http://www.text2onto.org/ontology#frame_c
+http://www.text2onto.org/ontology#query_tool_c
+http://www.text2onto.org/ontology#process_model_c
+http://www.text2onto.org/ontology#boundary_management_c
+http://www.text2onto.org/ontology#project_c
+http://www.text2onto.org/ontology#search_technology_c
+http://www.text2onto.org/ontology#document_management_c

@@ -1,0 +1,2 @@
+http://www.co-ode.org/ontologies/pizza/pizza.owl#IceCream
+http://www.co-ode.org/ontologies/pizza/pizza.owl#CheeseyVegetableTopping

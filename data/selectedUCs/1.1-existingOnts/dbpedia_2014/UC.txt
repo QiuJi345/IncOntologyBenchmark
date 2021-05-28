@@ -1,0 +1,2 @@
+http://schema.org/Library
+http://dbpedia.org/ontology/Library

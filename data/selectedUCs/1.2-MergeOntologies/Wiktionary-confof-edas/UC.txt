@@ -1,0 +1,7 @@
+http://confOf#Conference
+http://confOf#Working_event
+http://confOf#Workshop
+http://confOf#Tutorial
+http://edas#SingleLevelConference
+http://edas#TwoLevelConference
+http://edas#Conference

@@ -1,0 +1,14 @@
+http://cmt#ExternalReviewer
+http://edas#Presenter
+http://edas#SingleLevelConference
+http://edas#AccommodationPlace
+http://cmt#ProgramCommittee
+http://edas#CallForReviews
+http://edas#Author
+http://cmt#Conference
+http://cmt#Preference
+http://cmt#PaperAbstract
+http://edas#TwoLevelConference
+http://edas#Conference
+http://edas#CallForPapers
+http://edas#Reviewer

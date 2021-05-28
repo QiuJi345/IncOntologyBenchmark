@@ -1,0 +1,15 @@
+http://iasted#Sponsor
+http://edas#Sponsorship
+http://iasted#Sponzorship
+http://edas#ReviewRating
+http://iasted#Review
+http://edas#RejectRating
+http://edas#TravelGrant
+http://edas#WeekRejectRating
+http://edas#AcceptRating
+http://iasted#Sponsor_company_house
+http://iasted#Reviewer
+http://edas#RatedPapers
+http://iasted#Sponsor_city
+http://edas#Review
+http://edas#AccpetIfRoomRating

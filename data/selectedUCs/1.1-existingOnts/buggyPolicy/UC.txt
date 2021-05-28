@@ -1,0 +1,4 @@
+http://www.mindswap.org/dav/ontologies/policyContainmentTest.owl#GeneralReliabilityUsernamePolicy
+http://www.mindswap.org/dav/ontologies/policyContainmentTest.owl#Retry-Until-SucceedUsernamePolicy
+http://www.mindswap.org/dav/ontologies/policyContainmentTest.owl#IncoherentPolicy
+http://www.mindswap.org/dav/ontologies/policyContainmentTest.owl#Retry-On-FailureUsernamePolicy

@@ -1,0 +1,15 @@
+http://ekaw#Tutorial_Chair
+http://edas#Workshop
+http://edas#Reception
+http://edas#SocialEvent
+http://ekaw#Tutorial
+http://ekaw#Workshop_Paper
+http://edas#NonAcademicEvent
+http://edas#TextualReviewQuestion
+http://ekaw#Regular_Session
+http://ekaw#Conference
+http://edas#ConferenceDinner
+http://ekaw#Poster_Session
+http://ekaw#Workshop_Session
+http://edas#SessionChair
+http://edas#AcademicEvent

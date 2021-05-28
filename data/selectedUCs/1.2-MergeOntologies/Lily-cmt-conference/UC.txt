@@ -1,0 +1,6 @@
+http://cmt#Rejection
+http://conference#Reviewed_contribution
+http://conference#Camera_ready_contribution
+http://conference#Accepted_contribution
+http://conference#Rejected_contribution
+http://cmt#Acceptance

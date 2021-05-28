@@ -1,0 +1,8 @@
+http://www.mindswap.org/ontologies/debugging/university.owl#Lecturer
+http://www.mindswap.org/ontologies/debugging/university.owl#AI_Dept
+http://www.mindswap.org/ontologies/debugging/university.owl#HCIStudent
+http://www.mindswap.org/ontologies/debugging/university.owl#CS_Course
+http://www.mindswap.org/ontologies/debugging/university.owl#AssistantProfessor
+http://www.mindswap.org/ontologies/debugging/university.owl#AIStudent
+http://www.mindswap.org/ontologies/debugging/university.owl#CS_StudentTakingCourses
+http://www.mindswap.org/ontologies/debugging/university.owl#CS_Department
