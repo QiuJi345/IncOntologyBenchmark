@@ -14,7 +14,7 @@ We construct a comprehensive  benchmark for incoherent ontologies. It contains 1
 
 
 # 2. Usage:
-This benchmark contains 116 incoherent ontologies in total. The zip file of our benchmark includes the following folders: 
+This benchmark contains 116 incoherent ontologies in total ( see folder of "data"): 
 - 1.1-existingOnts: 18 existing incoherent ontologies
 - 1.2-MergeOntologies: 20 merged incoherent ontologies
 - 1.3-subOnts: 20 incoherent sub-ontologies
