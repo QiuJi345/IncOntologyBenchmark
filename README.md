@@ -14,7 +14,7 @@ We construct a comprehensive  benchmark for incoherent ontologies. It contains 1
 
 
 # 2. Usage:
-This benchmark contains 116 incoherent ontologies in total ( see folder of "data"): 
+This benchmark contains 116 incoherent ontologies in total ( [benchmark](https://github.com/QiuJi345/IncOntologyBenchmark/tree/main/data)): 
 - 1.1-existingOnts: 18 existing incoherent ontologies
 - 1.2-MergeOntologies: 20 merged incoherent ontologies
 - 1.3-subOnts: 20 incoherent sub-ontologies
@@ -25,7 +25,7 @@ This benchmark contains 116 incoherent ontologies in total ( see folder of "data
 
 
 # 3. Methods of constructing incoherent ontologies:
-In our paper, six construction methods have been implemented and their usage can be found below.
+In our paper, six construction methods have been implemented （[source code](https://github.com/QiuJi345/IncOntologyBenchmark/blob/main/javaSource/radon20210528.rar)） and their usage can be found below.
 - Construct incoherent ontologies through ontology matching:
 - Construct incoherent ontologies by extracting sub-ontologies
 - Construct incoherent ontologies by construction method NS:
@@ -34,13 +34,15 @@ In our paper, six construction methods have been implemented and their usage can
 - Construct incoherent ontologies by construction method HA:
 
 
-# 4. Ontology debugging tools used:
+# 4. Ontology debugging systems:
 We evaluated five representative ontology debugging tools. Their implementations and the source code to invoke an ontology debugging tool can be downloaded:
-- [CPDebug]( http://www.zhyweb.cn/cpdebrep/index.php): A clash path-based ontology debugging method ([source code]())
-- ProtegeBl: It is provided by the famous ontology editor [Protege](https://protege.stanford.edu/) ([source code]())
+- [CPDebug](http://www.zhyweb.cn/cpdebrep/index.php): A clash path-based ontology debugging method
+- [ProtegeBl](): It is provided by the famous ontology editor [Protege](https://protege.stanford.edu/) 
 - PelletBl: It is the debugging functionality implemented in OWL DL ontology reasoner [Pellet]( https://github.com/ignazio1977/pellet) ([source code]())
-- RadonRelAll: It represents the relevance-directed debugging algorithm  implemented in RaDON ([source code](https://github.com/QiuJi345/IncOntologyBenchmark/blob/main/javaSource/radon20210528.rar))
-- SwoopBl: It is the debugging functionality provided by ontology editing browser [SWOOP]( https://github.com/ronwalf/swoop) ([source code]())
+- [RadonRelAll](https://github.com/QiuJi345/IncOntologyBenchmark/blob/main/javaSource/radon20210528.rar): It represents the relevance-directed debugging algorithm  implemented in RaDON
+- [SwoopBl](): It is the debugging functionality provided by ontology editing browser [SWOOP]( https://github.com/ronwalf/swoop) 
+
+It should be noted that, the source code of these systems may rely on some libraries which can be downloaded ([libraries]()).
 
 
 # 5. Evaluation results:
