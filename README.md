@@ -37,7 +37,7 @@ In our paper, six construction methods have been implemented （[source code](ht
 # 4. Ontology debugging systems:
 We evaluated five representative ontology debugging tools. Their implementations and the source code to invoke an ontology debugging tool can be downloaded:
 - [CPDebug](http://www.zhyweb.cn/cpdebrep/index.php): A clash path-based ontology debugging method
-- [ProtegeBl](): It is provided by the famous ontology editor [Protege](https://protege.stanford.edu/) 
+- [ProtegeBl](https://github.com/QiuJi345/IncOntologyBenchmark/blob/main/javaSource/protegeDebug20210528.rar): It is provided by the famous ontology editor [Protege](https://protege.stanford.edu/) 
 - PelletBl: It is the debugging functionality implemented in OWL DL ontology reasoner [Pellet]( https://github.com/ignazio1977/pellet) ([source code]())
 - [RadonRelAll](https://github.com/QiuJi345/IncOntologyBenchmark/blob/main/javaSource/radon20210528.rar): It represents the relevance-directed debugging algorithm  implemented in RaDON
 - [SwoopBl](): It is the debugging functionality provided by ontology editing browser [SWOOP]( https://github.com/ronwalf/swoop) 
