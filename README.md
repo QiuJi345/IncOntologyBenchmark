@@ -39,7 +39,7 @@ We evaluated five representative ontology debugging tools. Their implementations
 - [CPDebug](http://www.zhyweb.cn/cpdebrep/index.php): A clash path-based ontology debugging method
 - [ProtegeBl](): It is provided by the famous ontology editor [Protege](https://protege.stanford.edu/) 
 - PelletBl: It is the debugging functionality implemented in OWL DL ontology reasoner [Pellet]( https://github.com/ignazio1977/pellet) ([source code]())
-- [RadonRelAll](https://github.com/QiuJi345/IncOntologyBenchmark/blob/main/javaSource/radon20210528.rar): It represents the relevance-directed debugging algorithm  implemented in RaDON  [RadonRelAll](https://github.com/QiuJi345/IncOntologyBenchmark/blob/main/javaSource/radon20210528.rar)
+- [RadonRelAll](https://github.com/QiuJi345/IncOntologyBenchmark/blob/main/javaSource/radon20210528.rar): It represents the relevance-directed debugging algorithm  implemented in RaDON
 - [SwoopBl](): It is the debugging functionality provided by ontology editing browser [SWOOP]( https://github.com/ronwalf/swoop) 
 
 It should be noted that, the source code of these systems may rely on some libraries which can be downloaded ([libraries]()).
