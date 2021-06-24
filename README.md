@@ -47,8 +47,8 @@ It should be noted that, the source code of these systems may rely on some libra
 
 # 5. Evaluation results:
 All evaluation results can be found below:
-- 74 papers investigated by us: [final-statistics-IDsFor74papers.xlsx]()
-- Statistics for existing incoherent ontologies: [final-statistics-existingIncoOntos.xlsx]()
-- Evaluation results for incoherent ontologies in our benchmark: [final-eval-onts-minRemoval.xlsx]() and [final-eval-onts-incoherenceRatio.xlsx]()
-- Evaluation results for five ontology debuggying systems: [final-eval-tools-Results.xlsx]()
-- 
+- 74 papers investigated by us: [final-statistics-IDsFor74papers.xlsx](https://github.com/QiuJi345/IncOntologyBenchmark/blob/main/results/final-statistics-IDsFor74papers.xlsx)
+- Statistics for existing incoherent ontologies: [final-statistics-existingIncoOntos.xlsx](https://github.com/QiuJi345/IncOntologyBenchmark/blob/main/results/final-statistics-existingIncoOntos.xlsx)
+- Evaluation results for incoherent ontologies in our benchmark: [final-eval-onts-minRemoval.xlsx](https://github.com/QiuJi345/IncOntologyBenchmark/blob/main/results/final-eval-onts-minRemoval.xlsx) and [final-eval-onts-incoherenceRatio.xlsx](https://github.com/QiuJi345/IncOntologyBenchmark/blob/main/results/final-eval-onts-incoherenceRatio.xlsx)
+- Evaluation results for five ontology debuggying systems: [final-eval-tools-Results.xlsx](https://github.com/QiuJi345/IncOntologyBenchmark/blob/main/results/final-eval-tools-Results.xlsx)
+
