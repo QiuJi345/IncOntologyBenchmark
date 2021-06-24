@@ -42,7 +42,7 @@ We evaluated five representative ontology debugging tools. Their implementations
 - [RadonRelAll](https://github.com/QiuJi345/IncOntologyBenchmark/blob/main/javaSource/radon20210528.rar): It represents the relevance-directed debugging algorithm  implemented in RaDON
 - [SwoopBl](): It is the debugging functionality provided by ontology editing browser [SWOOP]( https://github.com/ronwalf/swoop) 
 
-It should be noted that, the source code of these systems may rely on some libraries which can be downloaded ([libraries]()).
+It should be noted that, the source code of these systems may rely on some libraries which can be downloaded ([libraries](https://github.com/QiuJi345/IncOntologyBenchmark/blob/main/libs20210528.rar)).
 
 
 # 5. Evaluation results:
